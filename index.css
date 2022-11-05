@@ -1,0 +1,44 @@
+body {
+  background-color: deepskyblue;
+  font-family: "Poppins", sans-serif;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+  color: darkslateblue;
+}
+
+h4.notice {
+  padding-top: 10px;
+  text-align: center;
+  color: darkslateblue;
+}
+
+h4.caption {
+  padding-top: 10px;
+  text-align: center;
+  color: darkslateblue;
+}
+
+div.imgdiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+h4.links {
+  padding-top: 10px;
+  text-align: center;
+}
+
+div.buttondiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  height: 25px;
+  width: 200px;
+}
