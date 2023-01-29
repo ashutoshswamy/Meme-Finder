@@ -1,24 +1,24 @@
 body {
-  background-color: deepskyblue;
+  background-color: #ffd56f;
   font-family: "Poppins", sans-serif;
 }
 
 h1.title {
   padding-top: 25px;
   text-align: center;
-  color: darkslateblue;
+  color: #ff7b54;
 }
 
 h4.notice {
   padding-top: 10px;
   text-align: center;
-  color: darkslateblue;
+  color: #ff7b54;
 }
 
 h4.caption {
   padding-top: 10px;
   text-align: center;
-  color: darkslateblue;
+  color: #ff7b54;
 }
 
 div.imgdiv {

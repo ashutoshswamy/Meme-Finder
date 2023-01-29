@@ -1,5 +1,5 @@
 function showMeme() {
-  const url = "https://meme-api.herokuapp.com/gimme";
+  const url = "https://meme-api.com/gimme";
 
   fetch(url)
     .then((response) => response.json())
